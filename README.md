@@ -7,7 +7,7 @@ The app allows users to explore movies, TV shows, subscription plans, and more �
 
 ## 🚀 Live Demo
 
-🔗 [View on Vercel](https://your-vercel-link.vercel.app)
+🔗 [View on Vercel](https://stream-vibe-sand.vercel.app/)
 
 ---
 
