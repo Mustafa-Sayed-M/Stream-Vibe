@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Basic Plan",
+        "description": "Enjoy an extensive library of movies and shows, featuring a range of content, including recently released titles.",
+        "price": {
+            "monthly": "9.99",
+            "yearly": "19.99"
+        }
+    },
+    {
+        "name": "Standard Plan",
+        "description": "Access to a wider selection of movies and shows, including most new releases and exclusive content",
+        "price": {
+            "monthly": "12.99",
+            "yearly": "112.99"
+        }
+    },
+    {
+        "name": "Premium Plan",
+        "description": "Access to a widest selection of movies and shows, including all new releases and Offline Viewing",
+        "price": {
+            "monthly": "14.99",
+            "yearly": "114.99"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "What is StreamVibe?",
+        "answer": "StreamVibe is a streaming service that allows you to watch movies and shows on demand."
+    },
+    {
+        "id": 2,
+        "question": "How much does StreamVibe cost?",
+        "answer": "StreamVibe offers flexible subscription plans starting from $9.99 per month, with options for both monthly and annual billing."
+    },
+    {
+        "id": 3,
+        "question": "What content is available on StreamVibe?",
+        "answer": "StreamVibe offers a wide selection of movies, TV shows, and exclusive originals across different genres, including action, drama, comedy, documentaries, and more."
+    },
+    {
+        "id": 4,
+        "question": "How can I watch StreamVibe?",
+        "answer": "You can watch StreamVibe on our website, mobile apps (iOS and Android), smart TVs, and popular streaming devices such as Chromecast, Apple TV, and Roku."
+    },
+    {
+        "id": 5,
+        "question": "How do I sign up for StreamVibe?",
+        "answer": "Simply visit the StreamVibe website or download our app, click 'Sign Up', and follow the steps to create your account and choose your subscription plan."
+    },
+    {
+        "id": 6,
+        "question": "What is the StreamVibe free trial?",
+        "answer": "The StreamVibe free trial allows new users to enjoy full access to all features and content for 7 days at no cost. You can cancel anytime before the trial ends."
+    },
+    {
+        "id": 7,
+        "question": "How do I contact StreamVibe customer support?",
+        "answer": "You can reach our customer support team via email at support@streamvibe.com, or through the live chat feature on our website and app."
+    },
+    {
+        "id": 8,
+        "question": "What are the StreamVibe payment methods?",
+        "answer": "StreamVibe accepts major credit and debit cards, PayPal, and selected digital wallets for secure and convenient payments."
+    }
+]
